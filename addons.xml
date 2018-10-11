@@ -131,10 +131,10 @@
     <genre>movies,tv,trailers</genre>
     <video_guide>3nlzITuJizg</video_guide>
     <video_preview>OIp3Ry7qml8</video_preview>
-    <license>GNU GENERAL PUBLIC LICENSE Version 3</license>
-    <forum />
-    <source />
-    <email />
+    <license>GNU GENERAL PUBLIC LICENSE Version 2, June 1991</license>
+    <forum>http://www.noobsandnerds.com/support/showthread.php?tid=15273</forum>
+    <source>https://github.com/OpenELEQ/repository.q/tree/master/zips/script.extendedinfo</source>
+    <email>OpenELEQ@gmail.com</email>
   </extension>
 </addon>
 
