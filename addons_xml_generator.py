@@ -27,14 +27,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>SdarotRepo/addons_xml_generator.py at master · rafiw/SdarotRepo</title>
-    <meta name="description" content="Contribute to rafiw/SdarotRepo development by creating an account on GitHub.">
+  <title>repository.fisheetv/addons_xml_generator.py at master · rafiw/repository.fisheetv</title>
+    <meta name="description" content="Contribute to rafiw/repository.fisheetv development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
     
-    <meta property="og:image" content="https://avatars0.githubusercontent.com/u/3034707?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="rafiw/SdarotRepo" /><meta property="og:url" content="https://github.com/rafiw/SdarotRepo" /><meta property="og:description" content="Contribute to rafiw/SdarotRepo development by creating an account on GitHub." />
+    <meta property="og:image" content="https://avatars0.githubusercontent.com/u/3034707?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="rafiw/repository.fisheetv" /><meta property="og:url" content="https://github.com/rafiw/repository.fisheetv" /><meta property="og:description" content="Contribute to rafiw/repository.fisheetv development by creating an account on GitHub." />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
   <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzIzOTkxMjE0OjgyZjIwNTMxMDRhYjY2MjU3NjYwMDUxMzk2ZjE4MGMzMTc2ZGQzNzVjNjNkMzY5Mjk5ZTM0NmEzODA4NmZlNDM=--549142b687116235a88a5ea0965b9ee682a21b94">
@@ -79,14 +79,14 @@
   <meta http-equiv="x-pjax-version" content="a398749343876c3a36bdaa3fe0487a64">
   
 
-      <link href="https://github.com/rafiw/SdarotRepo/commits/master.atom" rel="alternate" title="Recent Commits to SdarotRepo:master" type="application/atom+xml">
+      <link href="https://github.com/rafiw/repository.fisheetv/commits/master.atom" rel="alternate" title="Recent Commits to repository.fisheetv:master" type="application/atom+xml">
 
-  <meta name="go-import" content="github.com/rafiw/SdarotRepo git https://github.com/rafiw/SdarotRepo.git">
+  <meta name="go-import" content="github.com/rafiw/repository.fisheetv git https://github.com/rafiw/repository.fisheetv.git">
 
-  <meta name="octolytics-dimension-user_id" content="3034707" /><meta name="octolytics-dimension-user_login" content="rafiw" /><meta name="octolytics-dimension-repository_id" content="98988891" /><meta name="octolytics-dimension-repository_nwo" content="rafiw/SdarotRepo" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="98988891" /><meta name="octolytics-dimension-repository_network_root_nwo" content="rafiw/SdarotRepo" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+  <meta name="octolytics-dimension-user_id" content="3034707" /><meta name="octolytics-dimension-user_login" content="rafiw" /><meta name="octolytics-dimension-repository_id" content="98988891" /><meta name="octolytics-dimension-repository_nwo" content="rafiw/repository.fisheetv" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="98988891" /><meta name="octolytics-dimension-repository_network_root_nwo" content="rafiw/repository.fisheetv" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/rafiw/SdarotRepo/blob/master/addons_xml_generator.py" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/rafiw/repository.fisheetv/blob/master/addons_xml_generator.py" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -142,7 +142,7 @@
   aria-expanded="false"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="98988891" data-scoped-search-url="/rafiw/SdarotRepo/search" data-unscoped-search-url="/search" action="/rafiw/SdarotRepo/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="98988891" data-scoped-search-url="/rafiw/repository.fisheetv/search" data-unscoped-search-url="/search" action="/rafiw/repository.fisheetv/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
       <label class="form-control header-search-wrapper header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
         <input type="text"
           class="form-control header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
