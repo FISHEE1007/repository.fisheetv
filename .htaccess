@@ -1,0 +1,6 @@
+Options +Indexes
+IndexIgnore *.gif *.txt *.htm *.html
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
